@@ -1,0 +1,20 @@
+{
+	"name": "mi-tema",
+	"displayName": "Mi Tema",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Tokyo Semantic Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tokyo-semantic-theme.json"
+			}
+		]
+	}
+}
