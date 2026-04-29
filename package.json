@@ -1,6 +1,6 @@
 {
-	"name": "mi-tema",
-	"displayName": "Mi Tema",
+	"name": "tokyo-semantic-theme",
+	"displayName": "Tokyo Semantic Theme",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.60.0"
