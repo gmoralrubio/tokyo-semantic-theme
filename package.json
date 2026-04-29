@@ -16,5 +16,9 @@
 				"path": "./themes/tokyo-semantic-theme.json"
 			}
 		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/npm/cli.git"
 	}
 }
